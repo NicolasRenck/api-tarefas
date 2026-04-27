@@ -173,7 +173,7 @@ api-tarefas/
 
 ## Segurança
 
-Cada usuário tem acesso **apenas às suas próprias tarefas**. A API filtra automaticamente os dados pelo usuário autenticado — não é possível acessar ou modificar tarefas de outros usuários.
+Cada usuário tem acesso **apenas às suas próprias tarefas**. A API filtra automaticamente os dados pelo usuário autenticado, não é possível acessar ou modificar tarefas de outros usuários.
 
 ---
 
