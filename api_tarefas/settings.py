@@ -9,9 +9,9 @@ SECRET_KEY = config('SECRET_KEY')
 
 DEBUG = config('DEBUG', default=True, cast=bool)
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'api-tarefas.onrender.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'api-tarefas-y7s7.onrender.com']
 
-CSRF_TRUSTED_ORIGINS = ['https://api-tarefas.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://api-tarefas-y7s7.onrender.com']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
