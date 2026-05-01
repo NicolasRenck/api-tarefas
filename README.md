@@ -178,17 +178,17 @@ Cada usuário tem acesso **apenas às suas próprias tarefas**. A API filtra aut
 ---
 
 
-## 🚀 Deploy
+## Deploy
 
 API em produção: https://api-tarefas-y7s7.onrender.com
 
 
-## 📖 Documentação
+## Documentação
 
 Swagger UI: https://api-tarefas-y7s7.onrender.com/api/docs/
 
 
-## 🔐 Autenticação
+## Autenticação
 
 A API usa JWT. Para testar:
 1. Crie um usuário em `POST /api/register/`
